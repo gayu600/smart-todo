@@ -83,7 +83,6 @@ smart-todo/
 ```
 
 ## 📸 Project Preview
-## 📸 Project Screenshots
 
 ### 📝 Registration Page
 Users can create a new account by providing their details.
