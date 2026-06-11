@@ -94,11 +94,11 @@ smart-todo/
 </p>
 
 <p align="center">
-  <img src="./screenshot/empty-dashboard.png" alt="Smart Todo Dashboard" width="900"/>
+  <img src="./screenshot/add-task.png" alt="Smart Todo Dashboard" width="900"/>
 </p>
 
 <p align="center">
-  <img src="./screenshot/add-task.png" alt="Smart Todo Dashboard" width="900"/>
+  <img src="./screenshot/profile-logout-tab.png" alt="Smart Todo Dashboard" width="900"/>
 </p>
 ---
 
