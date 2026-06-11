@@ -84,12 +84,22 @@ smart-todo/
 
 ## 📸 Project Preview
 
-> Add your dashboard screenshot inside the `screenshots` folder and name it `dashboard.png`.
 
 <p align="center">
   <img src="./screenshot/registration-page.png" alt="Smart Todo Dashboard" width="900"/>
 </p>
 
+<p align="center">
+  <img src="./screenshot/login-page.png" alt="Smart Todo Dashboard" width="900"/>
+</p>
+
+<p align="center">
+  <img src="./screenshot/empty-dashboard.png" alt="Smart Todo Dashboard" width="900"/>
+</p>
+
+<p align="center">
+  <img src="./screenshot/add-task.png" alt="Smart Todo Dashboard" width="900"/>
+</p>
 ---
 
 ## ⚙️ Installation
