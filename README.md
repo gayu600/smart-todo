@@ -35,27 +35,9 @@ This helps users easily monitor their productivity and manage work efficiently.
 
 ## 🛠️ Tech Stack
 
-### Frontend
-
-* React.js
-* JavaScript (ES6+)
-* HTML5
-* CSS3
-
-### Backend
-
-* Node.js
-* Express.js
-
-### Database
-
-* MySQL
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,mysql,git,github,vscode" />
+</p>
 
 ---
 
