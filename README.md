@@ -83,22 +83,40 @@ smart-todo/
 ```
 
 ## 📸 Project Preview
+## 📸 Project Screenshots
 
+### 📝 Registration Page
+Users can create a new account by providing their details.
 
 <p align="center">
-  <img src="./screenshot/registration-page.png" alt="Smart Todo Dashboard" width="900"/>
+  <img src="./screenshot/registration-page.png" alt="Registration Page" width="900"/>
 </p>
 
-<p align="center">
-  <img src="./screenshot/login-page.png" alt="Smart Todo Dashboard" width="900"/>
-</p>
+---
+
+### 🔐 Login Page
+Registered users can securely log in to access their tasks.
 
 <p align="center">
-  <img src="./screenshot/add-task.png" alt="Smart Todo Dashboard" width="900"/>
+  <img src="./screenshot/login-page.png" alt="Login Page" width="900"/>
 </p>
 
+---
+
+### ✅ Add Task Page
+Users can create and manage daily tasks with due dates and priorities.
+
 <p align="center">
-  <img src="./screenshot/profile-logout-tab.png" alt="Smart Todo Dashboard" width="900"/>
+  <img src="./screenshot/add-task.png" alt="Add Task Page" width="900"/>
+</p>
+
+---
+
+### 👤 Profile & Logout Menu
+Users can view profile information and securely log out of the application.
+
+<p align="center">
+  <img src="./screenshot/profile-logout-tab.png" alt="Profile and Logout" width="900"/>
 </p>
 ---
 
