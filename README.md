@@ -1,4 +1,4 @@
-# 🚀 Smart Todo
+hi# 🚀 Smart Todo
 
 A modern task management web application built with React.js that helps users organize, track, and manage their daily tasks efficiently. The application provides a clean dashboard interface with task statistics, progress tracking, due dates, and task management features. 
 
@@ -41,7 +41,7 @@ This helps users easily monitor their productivity and manage work efficiently.
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure 
 
 ```text
 smart-todo/
