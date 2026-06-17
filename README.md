@@ -67,7 +67,7 @@ smart-todo/
 ## 📸 Project Preview
 
 ### 📝 Registration Page
-Users can create a new account by providing their details.
+Users can create a new account by providing their details .
 
 <p align="center">
   <img src="./screenshot/registration-page.png" alt="Registration Page" width="900"/>
