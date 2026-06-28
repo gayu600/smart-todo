@@ -41,7 +41,7 @@ This helps users easily monitor their productivity and manage work efficiently.
 
 ---
 
-## 📂 Project Structure 
+## 📂 Project Structures
 
 ```text
 smart-todo/
