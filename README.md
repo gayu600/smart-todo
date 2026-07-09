@@ -15,7 +15,7 @@ A modern task management web application built with React.js that helps users or
 * Monitor productivity through dashboard metrics
 * Due date managements 
 * Responsive and user-friendly interface
-* Real-time task status updates
+* Real-time task status updates 
 
 ---
 
