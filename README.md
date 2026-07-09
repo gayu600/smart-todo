@@ -6,7 +6,7 @@ A modern task management web application built with React.js that helps users or
 
 ## ✨ Features. 
 
-* Create new tasks 
+* Create new tasks  
 * Edit existing tasks 
 * Delete tasks
 * Mark tasks as completed
