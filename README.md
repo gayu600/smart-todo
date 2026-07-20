@@ -9,7 +9,7 @@ A modern task management web application built with React.js that helps users or
 * Create new tasks  
 * Edit existing tasks 
 * Delete tasks
-* Mark tasks as completed
+* Mark tasks as complete 
 * Track pending and completed tasks  
 * View task statistics
 * Monitor productivity through dashboard metrics
